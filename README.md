@@ -1,15 +1,20 @@
 # Importance of Disjoint Sampling
 
-## This demo is associated with [Unveiling the True Potential: Disjoint Sampling for Rigorous Evaluation for Land Cover Classification](https://arxiv.org/abs/2404.14944) Submitted for possible publication.
+## This demo is associated with [Improving Generalization for Hyperspectral Image Classification: The Impact of Disjoint Sampling on Deep Models](https://www.sciencedirect.com/org/science/article/pii/S1546221824007070) [CMC](https://doi.org/10.32604/cmc.2024.056318).
 
-@misc{ahmad2024importance,
-      title={Unveiling the True Potential: Disjoint Sampling for Rigorous Evaluation for Land Cover Classification}, 
-      author={Muhammad Ahmad and Manuel Mazzara and Salvatore Distifano},
-      year={2024},
-      eprint={2404.14944},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+![model1](https://github.com/user-attachments/assets/406ba370-9e6d-41d3-b047-f650087a568f)
+
+@article{AHMAD2024503,
+title = {Improving Generalization for Hyperspectral Image Classification: The Impact of Disjoint Sampling on Deep Models},
+journal = {Computers, Materials and Continua},
+volume = {81},
+number = {1},
+pages = {503-532},
+year = {2024},
+issn = {1546-2218},
+doi = {https://doi.org/10.32604/cmc.2024.056318},
+url = {https://www.sciencedirect.com/science/article/pii/S1546221824007070},
+author = {Muhammad Ahmad and Manuel Mazzara and Salvatore Distefano and Adil Mehmood Khan and Hamad Ahmed Altuwaijri}}
 
 # Models implemented in this work:
 ## 2D CNN
